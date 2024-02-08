@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './example/useReducer1';
+import App from './example/useReducer2';
 
 import reportWebVitals from './reportWebVitals';
 
